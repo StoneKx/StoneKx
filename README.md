@@ -13,5 +13,7 @@
     <img src="https://img.shields.io/badge/Generator%20-%235c86fa.svg?&style=for-the-badge&&logoColor=white"/>
   </a>
 </p> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StoneKx)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StoneKx&hide=contribs,prs&show_icons=true&theme=dracula)
+<p>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StoneKx)](https://github.com/anuraghazra/github-readme-stats)</p>
+
+<p>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StoneKx&hide=contribs,prs&show_icons=true&theme=dracula)</p>
+
