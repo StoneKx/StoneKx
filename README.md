@@ -1,6 +1,9 @@
-<div align="center">
-  <img src="" />
-</div>
+
+<p>
+  <div align="center">
+  <img src="https://github.com/user-attachments/assets/9dfc7bf9-8a21-46d8-b71d-fd9c4af9c845" />
+  </div>
+</p>
 
 <p align='center'>
   <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
