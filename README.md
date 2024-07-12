@@ -5,6 +5,9 @@
   </div>
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StoneKx&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StoneKx&layout=compact)
+
 <p align='center'>
   <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
     <img src="https://img.shields.io/badge/html5%20-%23191919.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26&logoSize=300"/>
@@ -26,4 +29,4 @@
   </a>
 </p> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StoneKx&show_icons=true&theme=dracula)
+
